@@ -1,0 +1,1 @@
+a simple app to redirect to another link
